@@ -13,9 +13,11 @@ FedDIP is particularly well suited for scenarios involving:
 
 
 🚧 **Code Availability**
+
 The source code will be released soon, after the official acceptance of the associated publication
 
 📬 **Contact**
+
 sourour.ammar@crns.rnrt.tn
 
 📚 **BibTeX (Previous Work)**
